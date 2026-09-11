@@ -1,0 +1,3 @@
+[submodule "alteredstatemachines-vcv"]
+	path = alteredstatemachines-vcv
+	url = https://codeberg.org/alteredstatemachines/alteredstatemachines-vcv.git

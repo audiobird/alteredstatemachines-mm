@@ -1,0 +1,25 @@
+{
+	"MetaModuleBrandName": "Altered State Machines",
+	"MetaModuleBrandSlug": "alteredstatemachines",
+	"MetaModuleBrandAliases": [
+		"ASM"
+	],
+	"MetaModulePluginMaintainer": "4ms Company",
+	"MetaModulePluginMaintainerEmail": "4ms@4mscompany.com",
+	"MetaModulePluginMaintainerUrl": "https://4mscompany.com/",
+	"MetaModuleDescription": "",
+	"MetaModuleIncludedModules": [
+		{
+			"slug": "Aristotle",
+			"name": "Aristotle"
+		},
+		{
+			"slug": "Eris",
+			"name": "Eris"
+		},
+		{
+			"slug": "Medusa",
+			"name": "Medusa"
+		}
+	]
+}
