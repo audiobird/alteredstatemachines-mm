@@ -17,7 +17,7 @@ project(alteredstatemachines VERSION 2.0.0 DESCRIPTION "Altered State Machines f
 add_library(alteredstatemachines STATIC)
 
 # Add sources from the Rack source repo
-set(SOURCE_DIR ./alteredstatemachines-vcv)
+set(SOURCE_DIR ${CMAKE_CURRENT_LIST_DIR}/alteredstatemachines-vcv)
 
 target_sources(alteredstatemachines PRIVATE
     ${SOURCE_DIR}/src/plugin.cpp        
