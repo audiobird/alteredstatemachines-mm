@@ -1,13 +1,9 @@
 {
 	"MetaModuleBrandName": "Altered State Machines",
-	"MetaModuleBrandSlug": "alteredstatemachines",
-	"MetaModuleBrandAliases": [
-		"ASM"
-	],
-	"MetaModulePluginMaintainer": "4ms Company",
-	"MetaModulePluginMaintainerEmail": "4ms@4mscompany.com",
-	"MetaModulePluginMaintainerUrl": "https://4mscompany.com/",
-	"MetaModuleDescription": "",
+	"MetaModulePluginMaintainer": "Audiobird",
+	"MetaModulePluginMaintainerEmail": "asm-mm@hepner.dev",
+	"MetaModulePluginMaintainerUrl": "https://hepner.dev/",
+	"MetaModuleDescription": "Altered State Machine's Eurorack Simulations",
 	"MetaModuleIncludedModules": [
 		{
 			"slug": "Aristotle",
